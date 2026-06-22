@@ -12,7 +12,6 @@ What sets it apart:
 - 📤 Share-a-voice — export any trained voice as a single .mimic-voice file your friends can import in one click. Trade voices like Pokémon.
 - ⚡ Built for actual realtime — ~210 ms end-to-end (200 ms hop + SOLA crossfade + cpal buffer), positional rnd seeding, RMVPE neural pitch detection, octave-error correction, automatic latency recovery after Windows audio stalls.
 - 🎭 Custom voices with emoji faces — every voice you train gets its own face in the catalog. No more "untitled-3.onnx".
-- 💬 Plain-English errors — missing a Python package? You get one sentence plus a triple-clickable fix command, not a stack trace.
 
 Free, source-available, ~12 MB installer, alpha software. Built in Rust + Tauri + Svelte by people who got tired of voice changers that need a system reboot to install a virtual audio device.
 

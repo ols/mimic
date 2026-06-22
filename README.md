@@ -2,7 +2,7 @@ Mimic — your voice, but better. Or weirder. Or both.
 
 A slim, low-latency Windows voice changer that takes  you from "open the installer" to "talking like a  dragon in Discord" in under a minute — no reboot, no  driver install, no subscription.
 
-Mimic listens to your mic, runs it through pitch-shift / formant / reverb DSP and neural RVC voice conversion on your GPU (DirectML, ~10× faster than CPU), and pipes the result into Discord, OBS, Zoom, or wherever — via the free VB-CABLE virtual audio cable. No restart prompts, no signed kernel drivers, no Voicemod-style 200 MB installer.
+Mimic listens to your mic, runs it through pitch-shift / formant / reverb DSP and neural RVC voice conversion on your GPU (DirectML, ~10× faster than CPU), and pipes the result into Discord, OBS, Zoom, or wherever — via the free VB-CABLE virtual audio cable. No restart prompts, no signed kernel drivers.
 
 What sets it apart:
 
